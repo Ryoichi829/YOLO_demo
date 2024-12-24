@@ -1,5 +1,6 @@
 # yolo_c3.py YOLO V8 cluade version DEMO
 '''
+## pythonは3.11です。
 streamlit==1.24.0
 ultralytics==8.0.145
 opencv-python==4.7.0.72
